@@ -1,0 +1,11 @@
+{
+  "name": "cookie-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cookie_extractor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
